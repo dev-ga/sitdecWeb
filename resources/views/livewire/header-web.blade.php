@@ -8,7 +8,7 @@
         <ul class="flex space-x-4 bg-opacity-80 rounded-lg shadow-xl p-4 px-8  hover:border-b hover:border-white gap-3">
             <li><a href="{{ route('home') }}" class="text-black hover:text-white hover:font-extrabold font-semibold">Home</a></li>
             <li><a href="#" class="text-black hover:text-white hover:font-extrabold font-semibold">Agentes</a></li>
-            <li><a href="#" class="text-black hover:text-white hover:font-extrabold font-semibold">Cotizaciones</a></li>
+            <li><a href="https://tudrenviajes.xyz/app/pages/cotizador.php" class="text-black hover:text-white hover:font-extrabold font-semibold">Cotizaciones</a></li>
         </ul>
     </nav>
 </div>
